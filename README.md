@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEVTimotonic
 - 👀 I’m interested in Developpement en Hardware Developement
-- 🌱 I’m currently learning C++, Java, Pentesting
-- 💞️ I’m looking to collaborate on Devlowave.fr
+- 🌱 I’m currently learning ELIXIR !!!!!!
+- 💞️ I’m looking to collaborate on Devlowave.fr and CaveOfDev
 - 📫 How to reach me Discord : ! ! " [Timtonic]#2027
 
 <!---
