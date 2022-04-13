@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DEVTimotonic
+[![trophy](https://github-profile-trophy.vercel.app/?username=Timtonix)](https://github.com/Timtonix/github-profile-trophy)
+- 👋 Hi, I’m @Timtonix
 - 👀 I’m interested in Developpement en Hardware Developement
 - 🌱 I’m currently learning ELIXIR !!!!!!
 - 💞️ I’m looking to collaborate on Devlowave.fr and CaveOfDev
