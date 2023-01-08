@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **! ! " [Timtonix]**
 
-- ⚡ Fun fact **I'm a 🤓 you now ?**
+- ⚡ Fun fact **I'm a 🤓 you know ?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
